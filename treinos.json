@@ -1,0 +1,387 @@
+{
+    "iniciante": {
+      "peito": [
+        {
+          "nome": "Treino de Peito Iniciante 1",
+          "exercicios": [
+            "Supino reto - 3 séries de 10 repetições",
+            "Flexão de braço - 3 séries de 12 repetições",
+            "Crucifixo - 3 séries de 10 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Peito Iniciante 2",
+          "exercicios": [
+            "Supino inclinado - 3 séries de 10 repetições",
+            "Flexão de braço - 3 séries de 12 repetições",
+            "Peck deck - 3 séries de 10 repetições"
+          ]
+        }
+      ],
+      "costas": [
+        {
+          "nome": "Treino de Costas Iniciante 1",
+          "exercicios": [
+            "Barra fixa - 3 séries de 8 repetições",
+            "Remada com barra - 3 séries de 10 repetições",
+            "Puxada na máquina - 3 séries de 12 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Costas Iniciante 2",
+          "exercicios": [
+            "Remada com halteres - 3 séries de 10 repetições",
+            "Puxada alta - 3 séries de 12 repetições",
+            "Hiperextensão lombar - 3 séries de 12 repetições"
+          ]
+        }
+      ],
+      "biceps": [
+        {
+          "nome": "Treino de Bíceps Iniciante 1",
+          "exercicios": [
+            "Rosca direta - 3 séries de 10 repetições",
+            "Rosca alternada - 3 séries de 12 repetições",
+            "Martelo - 3 séries de 10 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Bíceps Iniciante 2",
+          "exercicios": [
+            "Rosca scott - 3 séries de 10 repetições",
+            "Rosca concentrada - 3 séries de 12 repetições",
+            "Rosca inversa - 3 séries de 10 repetições"
+          ]
+        }
+      ],
+      "triceps": [
+        {
+          "nome": "Treino de Tríceps Iniciante 1",
+          "exercicios": [
+            "Tríceps testa - 3 séries de 10 repetições",
+            "Tríceps francês - 3 séries de 12 repetições",
+            "Tríceps coice - 3 séries de 10 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Tríceps Iniciante 2",
+          "exercicios": [
+            "Tríceps corda - 3 séries de 10 repetições",
+            "Tríceps pulley - 3 séries de 12 repetições",
+            "Tríceps mergulho - 3 séries de 10 repetições"
+          ]
+        }
+      ],
+      "trapezio": [
+        {
+          "nome": "Treino de Trapézio Iniciante 1",
+          "exercicios": [
+            "Encolhimento de ombros - 3 séries de 10 repetições",
+            "Remada alta - 3 séries de 12 repetições",
+            "Elevação lateral - 3 séries de 10 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Trapézio Iniciante 2",
+          "exercicios": [
+            "Encolhimento com halteres - 3 séries de 10 repetições",
+            "Remada cavalinho - 3 séries de 12 repetições",
+            "Encolhimento com barra - 3 séries de 10 repetições"
+          ]
+        }
+      ],
+      "ombros": [
+        {
+          "nome": "Treino de Ombros Iniciante 1",
+          "exercicios": [
+            "Desenvolvimento militar - 3 séries de 10 repetições",
+            "Elevação frontal - 3 séries de 12 repetições",
+            "Elevação lateral - 3 séries de 10 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Ombros Iniciante 2",
+          "exercicios": [
+            "Elevação posterior - 3 séries de 10 repetições",
+            "Desenvolvimento Arnold - 3 séries de 12 repetições",
+            "Elevação lateral inclinada - 3 séries de 10 repetições"
+          ]
+        }
+      ],
+      "pernas": [
+        {
+          "nome": "Treino de Pernas Iniciante 1",
+          "exercicios": [
+            "Agachamento livre - 3 séries de 10 repetições",
+            "Leg press - 3 séries de 12 repetições",
+            "Cadeira extensora - 3 séries de 10 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Pernas Iniciante 2",
+          "exercicios": [
+            "Cadeira flexora - 3 séries de 10 repetições",
+            "Mesa flexora - 3 séries de 12 repetições",
+            "Afundo - 3 séries de 10 repetições"
+          ]
+        }
+      ]
+    },
+    "intermediario": {
+      "peito": [
+        {
+          "nome": "Treino de Peito Intermediário 1",
+          "exercicios": [
+            "Supino declinado - 4 séries de 8 repetições",
+            "Crucifixo inclinado - 4 séries de 10 repetições",
+            "Peck deck - 4 séries de 10 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Peito Intermediário 2",
+          "exercicios": [
+            "Supino com halteres - 4 séries de 8 repetições",
+            "Crucifixo - 4 séries de 10 repetições",
+            "Flexão de braço - 4 séries de 12 repetições"
+          ]
+        }
+      ],
+      "costas": [
+        {
+          "nome": "Treino de Costas Intermediário 1",
+          "exercicios": [
+            "Remada curvada - 4 séries de 8 repetições",
+            "Pulldown na máquina - 4 séries de 10 repetições",
+            "Levantamento terra - 4 séries de 8 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Costas Intermediário 2",
+          "exercicios": [
+            "Remada cavalinho - 4 séries de 10 repetições",
+            "Puxada alta - 4 séries de 8 repetições",
+            "Hiperextensão lombar - 4 séries de 12 repetições"
+          ]
+        }
+      ],
+      "biceps": [
+        {
+          "nome": "Treino de Bíceps Intermediário 1",
+          "exercicios": [
+            "Rosca direta - 4 séries de 8 repetições",
+            "Rosca alternada - 4 séries de 10 repetições",
+            "Rosca martelo - 4 séries de 8 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Bíceps Intermediário 2",
+          "exercicios": [
+            "Rosca scott - 4 séries de 8 repetições",
+            "Rosca concentrada - 4 séries de 10 repetições",
+            "Rosca inversa - 4 séries de 8 repetições"
+          ]
+        }
+      ],
+      "triceps": [
+        {
+          "nome": "Treino de Tríceps Intermediário 1",
+          "exercicios": [
+            "Tríceps testa - 4 séries de 8 repetições",
+            "Tríceps francês - 4 séries de 10 repetições",
+            "Tríceps coice - 4 séries de 8 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Tríceps Intermediário 2",
+          "exercicios": [
+            "Tríceps corda - 4 séries de 8 repetições",
+            "Tríceps pulley - 4 séries de 10 repetições",
+            "Tríceps mergulho - 4 séries de 8 repetições"
+          ]
+        }
+      ],
+      "trapezio": [
+        {
+          "nome": "Treino de Trapézio Intermediário 1",
+          "exercicios": [
+            "Encolhimento de ombros - 4 séries de 8 repetições",
+            "Remada alta - 4 séries de 10 repetições",
+            "Elevação lateral - 4 séries de 8 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Trapézio Intermediário 2",
+          "exercicios": [
+            "Encolhimento com halteres - 4 séries de 8 repetições",
+            "Remada cavalinho - 4 séries de 10 repetições",
+            "Encolhimento com barra - 4 séries de 8 repetições"
+          ]
+        }
+      ],
+      "ombros": [
+        {
+          "nome": "Treino de Ombros Intermediário 1",
+          "exercicios": [
+            "Desenvolvimento militar - 4 séries de 8 repetições",
+            "Elevação frontal - 4 séries de 10 repetições",
+            "Elevação lateral - 4 séries de 8 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Ombros Intermediário 2",
+          "exercicios": [
+            "Elevação posterior - 4 séries de 8 repetições",
+            "Desenvolvimento Arnold - 4 séries de 10 repetições",
+            "Elevação lateral inclinada - 4 séries de 8 repetições"
+          ]
+        }
+      ],
+      "pernas": [
+        {
+          "nome": "Treino de Pernas Intermediário 1",
+          "exercicios": [
+            "Agachamento livre - 4 séries de 8 repetições",
+            "Leg press - 4 séries de 10 repetições",
+            "Cadeira extensora - 4 séries de 8 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Pernas Intermediário 2",
+          "exercicios": [
+            "Cadeira flexora - 4 séries de 8 repetições",
+            "Mesa flexora - 4 séries de 10 repetições",
+            "Afundo - 4 séries de 8 repetições"
+          ]
+        }
+      ]
+    },
+    "avancado": {
+      "peito": [
+        {
+          "nome": "Treino de Peito Avançado 1",
+          "exercicios": [
+            "Supino inclinado com barra - 5 séries de 6 repetições",
+            "Crucifixo reto - 5 séries de 8 repetições",
+            "Peck deck - 5 séries de 8 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Peito Avançado 2",
+          "exercicios": [
+            "Supino declinado com halteres - 5 séries de 6 repetições",
+            "Crucifixo inclinado - 5 séries de 8 repetições",
+            "Flexão de braço - 5 séries de 10 repetições"
+          ]
+        }
+      ],
+      "costas": [
+        {
+          "nome": "Treino de Costas Avançado 1",
+          "exercicios": [
+            "Remada T - 5 séries de 6 repetições",
+            "Pulldown na máquina - 5 séries de 8 repetições",
+            "Levantamento terra - 5 séries de 6 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Costas Avançado 2",
+          "exercicios": [
+            "Remada unilateral com halteres - 5 séries de 8 repetições",
+            "Puxada alta com barra - 5 séries de 6 repetições",
+            "Hiperextensão lombar com peso - 5 séries de 10 repetições"
+          ]
+        }
+      ],
+      "biceps": [
+        {
+          "nome": "Treino de Bíceps Avançado 1",
+          "exercicios": [
+            "Rosca direta - 5 séries de 6 repetições",
+            "Rosca alternada - 5 séries de 8 repetições",
+            "Rosca martelo - 5 séries de 6 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Bíceps Avançado 2",
+          "exercicios": [
+            "Rosca scott - 5 séries de 6 repetições",
+            "Rosca concentrada - 5 séries de 8 repetições",
+            "Rosca inversa - 5 séries de 6 repetições"
+          ]
+        }
+      ],
+      "triceps": [
+        {
+          "nome": "Treino de Tríceps Avançado 1",
+          "exercicios": [
+            "Tríceps testa - 5 séries de 6 repetições",
+            "Tríceps francês - 5 séries de 8 repetições",
+            "Tríceps coice - 5 séries de 6 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Tríceps Avançado 2",
+          "exercicios": [
+            "Tríceps corda - 5 séries de 6 repetições",
+            "Tríceps pulley - 5 séries de 8 repetições",
+            "Tríceps mergulho - 5 séries de 6 repetições"
+          ]
+        }
+      ],
+      "trapezio": [
+        {
+          "nome": "Treino de Trapézio Avançado 1",
+          "exercicios": [
+            "Encolhimento de ombros - 5 séries de 6 repetições",
+            "Remada alta - 5 séries de 8 repetições",
+            "Elevação lateral - 5 séries de 6 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Trapézio Avançado 2",
+          "exercicios": [
+            "Encolhimento com halteres - 5 séries de 6 repetições",
+            "Remada cavalinho - 5 séries de 8 repetições",
+            "Encolhimento com barra - 5 séries de 6 repetições"
+          ]
+        }
+      ],
+      "ombros": [
+        {
+          "nome": "Treino de Ombros Avançado 1",
+          "exercicios": [
+            "Desenvolvimento militar - 5 séries de 6 repetições",
+            "Elevação frontal - 5 séries de 8 repetições",
+            "Elevação lateral - 5 séries de 6 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Ombros Avançado 2",
+          "exercicios": [
+            "Elevação posterior - 5 séries de 6 repetições",
+            "Desenvolvimento Arnold - 5 séries de 8 repetições",
+            "Elevação lateral inclinada - 5 séries de 6 repetições"
+          ]
+        }
+      ],
+      "pernas": [
+        {
+          "nome": "Treino de Pernas Avançado 1",
+          "exercicios": [
+            "Agachamento livre - 5 séries de 6 repetições",
+            "Leg press - 5 séries de 8 repetições",
+            "Cadeira extensora - 5 séries de 6 repetições"
+          ]
+        },
+        {
+          "nome": "Treino de Pernas Avançado 2",
+          "exercicios": [
+            "Cadeira flexora - 5 séries de 6 repetições",
+            "Mesa flexora - 5 séries de 8 repetições",
+            "Afundo - 5 séries de 6 repetições"
+          ]
+        }
+      ]
+    }
+  }
+  
