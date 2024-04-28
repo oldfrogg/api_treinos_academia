@@ -26,7 +26,7 @@ Parâmetros aceitos em <id>: Númreros decimais sem o 0, cujo limite depende da 
 ## Execução da API 
 Primeiro será mostrado como executar em modo de desenvolvimento, e depois como executar via Docker. Para ambos os casos o Banco de Dados, caso ainda não exista, será criado e populado.
 
-### Execução em modo de desenvolvimento
+## Execução em modo de desenvolvimento
 Para executar a aplicação, deve-se realizar a instalação dos pacotes necessários e executá-lo em um ambiente virtual.
 
 Para criar um ambiente virtual é necessário navegar no terminal até o diretório da aplicação e dar o comando:
@@ -80,11 +80,11 @@ ou:
 
 
 
-### Execução via Docker
+## Execução via Docker
 Caso não o tenha, instale o Docker em sua máquina.
 
 
-##### Para instalar o Docker no Windows
+### Para instalar o Docker no Windows
 Baixar o wsl com o terminal Windows em modo de administrador
 ```
 wsl --install
@@ -101,13 +101,13 @@ Após instalado, o comando "ubuntu" irá transformar o cmd ou powershell em um t
 
 
 
-##### Para instalar o Docker no Linux
+### Para instalar o Docker no Linux
 Siga os passos disponíveis para a sua distribuição informados no link a seguir:
 
 <https://docs.docker.com/desktop/install/linux-install/>
 
 
-##### Para instalar o Docker no mac
+### Para instalar o Docker no mac
 Siga os passos informados no link a seguir:
 
 <https://docs.docker.com/desktop/install/mac-install/>
@@ -116,7 +116,7 @@ Siga os passos informados no link a seguir:
 Para todos os casos, o modo de virtualização precisa estar ativado na BIOS.
 
 
-#### Com o Docker instalado em sua máquina
+## Com o Docker instalado em sua máquina
 
 Navegue através do terminal até o diretório onde encontra-se o Dockerfile e os arquivos da aplicação e execute como administrador (Coloca 'sudo' antes do comando no Linux) o seguinte comando para construir a imagem Docker com o nome "treinos-api":
 ```
