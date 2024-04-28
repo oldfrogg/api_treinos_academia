@@ -19,8 +19,10 @@ Importante: Esta API deve ser executada na porta 5001.
 * /add - POST - para adicionar um treino ao banco de dados"
 * /delete/treino/<id> - DELETE - para excluir um treino do banco de dados"
 
-Parâmetros aceitos em <níivel>:  'iniciante', 'intermediario', 'avancado';
+Parâmetros aceitos em <nivel>:  'iniciante', 'intermediario', 'avancado
+
 Parâmetros aceitos em <grupo_muscular>: 'peito', 'costas', 'biceps', 'triceps', 'trapezio', 'ombros', 'pernas';
+
 Parâmetros aceitos em <id>: Númreros decimais sem o 0, cujo limite depende da quantidade de exercicios cadastrados.
 
 ## Execução da API 
